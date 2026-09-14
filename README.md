@@ -1,6 +1,6 @@
-# Java Practice
+# Java SE Fundamentals to Advanced Practice Log
 
-Java SE 基礎到進階的練習紀錄，以主題分類，目標是把核心語法練到反射動作。
+Organized by topic, with the goal of drilling core syntax into reflex.
 
 ## 進度總覽
 
