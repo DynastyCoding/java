@@ -12,8 +12,8 @@ Organized by topic, with the goal of drilling core syntax into reflex.
 |    Exception    |  ✅ Proficient |
 |      Stream     |  ✅ Proficient |
 |      String     |  ✅ Proficient |
-|      Regex      |   ⏳ Upcoming  |
-|     Wrapper     |   ⏳ Upcoming  |
+|      Regex      |  ✅ Proficient |
+|     Wrapper     |  ✅ Proficient |
 
 
 ## Practice Topics
