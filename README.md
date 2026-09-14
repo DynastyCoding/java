@@ -2,7 +2,7 @@
 
 Organized by topic, with the goal of drilling core syntax into reflex.
 
-## 進度總覽
+## Progress Overview
 
 |      Topic      |     Status     |
 |-----------------|----------------|
